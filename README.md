@@ -6,7 +6,7 @@ sending data to influx db-cloud and analyse using node js dashboard
 
 
 # Steps
-Set up the AWS IoT Device Simulator
+Set up the AWS IoT Device Simulator --> Go to Cloud Formation and Create Stack and then upload the downloaded template.
 
 Set up InfluxDB and Grafana on your own Amazon EC2 instances
 
@@ -16,3 +16,8 @@ Develop Grafana dashboard(s) with real-time visualizations to track IoT data
 
 
 https://aws.amazon.com/blogs/iot/influxdb-and-grafana-with-aws-iot-to-visualize-time-series-data/
+
+
+https://docs.aws.amazon.com/solutions/latest/iot-device-simulator/getting-started.html
+
+
